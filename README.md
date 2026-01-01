@@ -1,8 +1,31 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# 📝 **README for JavaScript Calculator**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```markdown
+# JavaScript Calculator
+
+A fully functional React-based calculator built for the FreeCodeCamp Front End Libraries certification. This project supports chained operations, decimal handling, and clear/reset functionality while maintaining accurate mathematical behavior.
+
+## Features
+- Standard calculator operations (+, -, ×, ÷)
+- Chained calculations
+- Decimal support
+- Clear and reset functionality
+- Responsive layout for mobile and desktop
+- Built with modern React and Vite
+
+## Tech Stack
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS
+
+## How It Works
+The calculator tracks input, operators, and results using React state. It processes expressions according to typical calculator logic, ensuring predictable and accurate output.
+
+## Running Locally
+```bash
+npm install
+npm run dev
