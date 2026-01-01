@@ -25,6 +25,9 @@ A fully functional React-based calculator built for the FreeCodeCamp Front End L
 ## How It Works
 The calculator tracks input, operators, and results using React state. It processes expressions according to typical calculator logic, ensuring predictable and accurate output.
 
+## Live Demo
+[Click here to view the live site](https://javascript-calculator-two-gray.vercel.app/)
+
 ## Running Locally
 ```bash
 npm install
